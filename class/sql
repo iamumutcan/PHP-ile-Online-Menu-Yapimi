@@ -1,0 +1,1 @@
+CREATE TABLE `qrmenu`.`kebap` ( `ID` INT NOT NULL AUTO_INCREMENT , `UrunAd` VARCHAR(255) NULL , `UrunAciklama` VARCHAR(255) NULL , `UrunFiyat` VARCHAR(255) NULL , `UrunSira` VARCHAR(255) NULL , `UrunResim` VARCHAR(500) NULL , PRIMARY KEY (`ID`)) ENGINE = InnoDB CHARSET=utf8 COLLATE utf8_turkish_ci;
